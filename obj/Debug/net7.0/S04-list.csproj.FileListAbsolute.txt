@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/bin/Debug/net7.0/S04-list
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/bin/Debug/net7.0/S04-list.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/bin/Debug/net7.0/S04-list.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/bin/Debug/net7.0/S04-list.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/bin/Debug/net7.0/S04-list.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/refint/S04-list.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/S04-list.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-list/obj/Debug/net7.0/ref/S04-list.dll
